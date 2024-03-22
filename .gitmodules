@@ -1,0 +1,3 @@
+[submodule "AOSP-Lab1-NativeBin"]
+	path = AOSP-Lab1-NativeBin
+	url = https://github.com/gbertao/AOSP-Lab1-NativeBin.git
