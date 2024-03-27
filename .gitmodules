@@ -1,3 +1,6 @@
 [submodule "AOSP-Lab1-NativeBin"]
 	path = AOSP-Lab1-NativeBin
 	url = https://github.com/gbertao/AOSP-Lab1-NativeBin.git
+[submodule "AOSP-Lab2-NativeService"]
+	path = AOSP-Lab2-NativeService
+	url = https://github.com/gbertao/AOSP-Lab2-NativeService
